@@ -49,7 +49,8 @@ const jira = (name, task, task_h, row) => {
     Accept:
       "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
     cookie: [
-      process.env.JSESSIONID
+      process.env.JSESSIONID,
+      process.env.token
     ],
   };
   const url = `${process.env.JIRA_URL}browse/${task}`;
@@ -65,7 +66,7 @@ const jira = (name, task, task_h, row) => {
 
       const type = dom.window.document.getElementById("type-val");
       if (!type) {
-        console.error(`分配失败--检查任务状态`);
+        console.error(`分配失败--检查任务状态-type`);
         console.error(`分配${name}的任务一${task}失败。`);
         row.状态 = "分配失败";
         row.save();
