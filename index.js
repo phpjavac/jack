@@ -134,7 +134,7 @@ const init = async () => {
     const rows = await sheet.getRows();
     for (let idx = 0; idx < rows.length; idx++) {
       const row = rows[idx];
-      if(row.状态 !== "分配失败" || row.状态 !== "分配成功"){
+      if(row.状态 !== "分配失败" && row.状态 !== "分配成功"){
           jira(sheet.title, row.任务号, row.计划开发工时, row);
       }
     }

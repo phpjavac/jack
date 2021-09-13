@@ -14,6 +14,7 @@
     "google-spreadsheet": "^3.1.15",
     "jsdom": "^17.0.0",
     "node-schedule": "^2.0.0",
+    "pm2": "^5.1.1",
     "request": "^2.88.2"
   }
 }
