@@ -66,6 +66,7 @@ const jira = (name, task, task_h, row) => {
 
       const type = dom.window.document.getElementById("type-val");
       if (!type) {
+        console.error(`${process.env.JIRA_URL}browse/${task}`,body)
         console.error(`分配失败--检查任务状态-type`);
         console.error(`分配${name}的任务一${task}失败。`);
         row.状态 = "分配失败";
@@ -135,7 +136,7 @@ const init = async () => {
     for (let idx = 0; idx < rows.length; idx++) {
       const row = rows[idx];
       if(row.状态 !== "分配失败" && row.状态 !== "分配成功"){
-          jira(sheet.title, row.任务号, row.计划开发工时, row);
+          jira(sheet.title.trim(), row.任务号.trim(), row.计划开发工时.trim(), row);
       }
     }
   }

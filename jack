@@ -1,0 +1,840 @@
+http://findsoft.com.cn:8888/browse/ ropo-199 
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<title>项目不存在 - FindSoft JIRA</title>
+<meta name="application-name" content="JIRA" data-name="jira" data-version="6.3.6"><meta name="ajs-dev-mode" content="false">
+<meta name="ajs-context-path" content="">
+<meta name="ajs-version-number" content="6.3.6">
+<meta name="ajs-build-number" content="6336">
+<meta name="ajs-is-beta" content="false">
+<meta name="ajs-is-rc" content="false">
+<meta name="ajs-is-snapshot" content="false">
+<meta name="ajs-is-milestone" content="false">
+<meta name="ajs-remote-user" content="sunfucong">
+<meta name="ajs-remote-user-fullname" content="孙福聪">
+<meta name="ajs-user-locale" content="zh_CN">
+<meta name="ajs-user-locale-group-separator" content=",">
+<meta name="ajs-app-title" content="FindSoft JIRA">
+<meta name="ajs-keyboard-shortcuts-enabled" content="true">
+<meta name="ajs-keyboard-accesskey-modifier" content="Alt">
+<meta name="ajs-enabled-dark-features" content="[&quot;jira.plugin.devstatus.phasetwo.enabled&quot;,&quot;com.atlassian.jira.config.PDL&quot;,&quot;jira.frother.reporter.field&quot;,&quot;jira.plugin.devstatus.phasetwo&quot;,&quot;com.atlassian.jira.darkfeature.CommonHeader&quot;,&quot;app-switcher.new&quot;,&quot;frother.assignee.field&quot;,&quot;jira.issue.status.lozenge&quot;]">
+<meta name="ajs-date-relativize" content="true">
+<meta name="ajs-date-time" content="HH:mm">
+<meta name="ajs-date-day" content="EEEE HH:mm">
+<meta name="ajs-date-dmy" content="yyyy-MM-dd">
+<meta name="ajs-date-complete" content="yyyy-MM-dd HH:mm">
+<meta name="ajs-in-admin-mode" content="false">
+<meta name="ajs-is-sysadmin" content="true">
+<meta name="ajs-is-admin" content="true">
+<meta name="ajs-outgoing-mail-enabled" content="true">
+<meta name="ajs-whats-new-iframe-src" content="https://docs.atlassian.com/jira/docs-063/whatsnew/iframe?od=false&amp;a=true&amp;pa=true"> <meta name="ajs-whatsnew-full-link" content="https://docs.atlassian.com/jira/docs-063/whatsnew/full?od=false&amp;a=true&amp;pa=true"><meta name="ajs-admin-quicksearch-show" content="true">
+
+
+    
+<meta id="atlassian-token" name="atlassian-token" content="BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">
+
+
+
+<link rel="shortcut icon" href="/s/zh_CN-b1h4h6/6336/35/_/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.jsp" title="项目不存在 - FindSoft JIRA"/>
+
+    
+
+
+<!--[if IE]><![endif]-->
+<script type="text/javascript">var contextPath = '';</script>
+<script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\"\"";
+WRM._unparsedData["com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources.resource-uris"]="{\"deployJava.html\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/deployJava.html\",\"clipboard.jar\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/clipboard.jar\",\"clipboard-legacy.jar\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/clipboard-legacy.jar\"}";
+</script>
+<link type="text/css" rel="stylesheet" href="/s/1c383cd30b7c298ab50293adfecb7b18-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/9c327efc2ef0d1cf5847d4446cf7563c/_/download/contextbatch/css/atl.general/batch.css?isAdmin=true&amp;jag=true&amp;agile_global_admin_condition=true&amp;jaguser=true" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/8d26f49c7d4aa3dbb86c5bfb0f595b57/_/download/contextbatch/css/jira.general/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/1c383cd30b7c298ab50293adfecb7b18-CDN/zh_CN-b1h4h6/6336/35/6e64de2bd227bae13f9e14dd941e0d5a/_/download/contextbatch/css/jira.global/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-T/zh_CN-b1h4h6/6336/35/1.18.5/_/download/batch/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources.css" media="all">
+<script type="text/javascript" src="/s/40aada3023348fa3fa884a83faf96017-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/js/batch.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/4eb4fa80e1ae4644f6375af34028bf75-CDN/zh_CN-b1h4h6/6336/35/9c327efc2ef0d1cf5847d4446cf7563c/_/download/contextbatch/js/atl.general/batch.js?locale=zh-CN&amp;isAdmin=true&amp;jag=true&amp;agile_global_admin_condition=true&amp;jaguser=true" ></script>
+<script type="text/javascript" src="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/8d26f49c7d4aa3dbb86c5bfb0f595b57/_/download/contextbatch/js/jira.general/batch.js" ></script>
+<script type="text/javascript" src="/s/7a7d24b31ec5b175413da5e0c1e9c9e2-CDN/zh_CN-b1h4h6/6336/35/6e64de2bd227bae13f9e14dd941e0d5a/_/download/contextbatch/js/jira.global/batch.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-CDN/zh_CN-b1h4h6/6336/35/2.0.2/_/download/batch/com.atlassian.jira.jira-tzdetect-plugin:tzdetect-lib/com.atlassian.jira.jira-tzdetect-plugin:tzdetect-lib.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-T/zh_CN-b1h4h6/6336/35/1.18.5/_/download/batch/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-T/zh_CN-b1h4h6/6336/35/1.5/_/download/batch/com.atlassian.administration.atlassian-admin-quicksearch-jira:admin-quicksearch-webresources/com.atlassian.administration.atlassian-admin-quicksearch-jira:admin-quicksearch-webresources.js?locale=zh-CN" ></script>
+
+<script type="text/javascript" src="/rest/api/1.0/shortcuts/6336/da13a3785387ae4d805e41e0e9875be5/shortcuts.js"></script>
+
+
+    
+	
+    <meta name="decorator" content="message" />
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-message " data-version="6.3.6">
+<div id="page">
+    <header id="header" role="banner">
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+        
+
+
+    <dl id="bonfire-build-info" style="display:none;">
+        <dt data-bonfire-var="bonfire-buildVersion" data-bonfire-value="2.9.13.0"></dt>
+        <dt data-bonfire-var="bonfire-buildDate" data-bonfire-value="2016-03-14T00:00:00.000+08:00"></dt>
+        <dt data-bonfire-var="bonfire-buildNumber" data-bonfire-value=""></dt>
+        <dt data-bonfire-var="bonfire-licenseStatus" data-bonfire-value="unactivated"></dt>
+    </dl>
+    
+        
+    
+
+
+<fieldset class="parameters hidden dont-default-focus">
+    <input type="hidden" title="tzdetect.pref.tzid" value="Asia/Shanghai" />
+    <input type="hidden" title="tzdetect.pref.tzname" value="(GMT+08:00) 上海" />
+    <input type="hidden" title="tzdetect.pref.janOffset" value="28800000" />
+    <input type="hidden" title="tzdetect.pref.julyOffset" value="28800000" />
+    <input type="hidden" title="tzdetect.pref.nothanks" value="" />
+</fieldset>
+<nav class="aui-header aui-dropdown2-trigger-group" role="navigation"><div class="aui-header-inner"><div class="aui-header-before"><a class="aui-dropdown2-trigger app-switcher-trigger" aria-owns="app-switcher" aria-haspopup="true" tabindex="0"><span class="aui-icon aui-icon-small aui-iconfont-appswitcher">Linked Applications</span></a><div id="app-switcher" class="aui-dropdown2 aui-style-default"><div class="app-switcher-loading">Loading&hellip;</div></div><script>
+            (function (NL) {
+                var initialise = function () {
+                    // For some milestones of AUI, the atlassian soy namespace was renamed to aui. Handle that here by ensuring that window.atlassian is defined.
+                    window.atlassian = window.atlassian || window.aui;
+                    new NL.AppSwitcher({
+                        dropdownContents: '#app-switcher'
+                    });
+                };
+                if (NL.AppSwitcher) {
+                    initialise();
+                } else {
+                    NL.onInit = initialise;
+                }
+            }(window.NL = (window.NL || {})));
+            window.NL.isUserAdmin = true</script></div><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="http://findsoft.com.cn:8888/secure/MyJiraHome.jspa"><img src="/s/zh_CN-b1h4h6/6336/35/_/images/icon-jira-logo.png" alt="FindSoft JIRA" /></a></h1><ul class='aui-nav'>
+
+
+
+
+<li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/secure/Dashboard.jspa" id="home_link"  accessKey="d"  title="查看和管理您的面板"  aria-haspopup="true" aria-owns="home_link-content">面板</a><div id="home_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="home_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/browse/ROPO" id="browse_link"  accessKey="p"  title="查看最近项目和浏览项目列表"  aria-haspopup="true" aria-owns="browse_link-content">项目</a><div id="browse_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="browse_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/issues/" id="find_link"  accessKey="i"  title="搜索问题和查看最近问题"  aria-haspopup="true" aria-owns="find_link-content">问题</a><div id="find_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="find_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/secure/GreenHopper.jspa" id="greenhopper_menu"  title="Manage your project with JIRA Agile"  aria-haspopup="true" aria-owns="greenhopper_menu-content">Agile</a><div id="greenhopper_menu-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="greenhopper_menu"></div></li>
+<li id="create-menu"><a  id="create_link"  class="aui-button aui-button-primary aui-style create-issue "  title="创建一个新的问题/缺陷/需求等等" href="/secure/CreateIssue!default.jspa" accesskey="c">创建</a></li></ul></div><div class="aui-header-secondary"><ul class='aui-nav'><li>
+    <form action="/secure/QuickSearch.jspa" method="post" id="quicksearch" class="aui-quicksearch dont-default-focus ajs-dirty-warning-exempt">
+        <input id="quickSearchInput" class="search" type="text" title="搜索" placeholder="搜索" name="searchString" accessKey="q" />
+        <input type="submit" class="hidden" value="Search">
+    </form>
+</li>
+
+
+
+    <li id="system-help-menu">
+        <a class="aui-nav-link aui-dropdown2-trigger" id="help_menu" aria-haspopup="true" aria-owns="system-help-menu-content" href="https://docs.atlassian.com/jira/docs-063/JIRA+Documentation"  target="$textUtils.htmlEncode($rootHelpMenuItem.params.target)"  title="Help"><span class="aui-icon aui-icon-small aui-iconfont-help">Help</span></a>
+        <div id="system-help-menu-content" class="aui-dropdown2 aui-style-default">
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="jira-help" class="aui-list-truncate">
+                                                            <li>
+                                    <a  id="view_help"   class=""  title="转到JIRA在线帮助网站" href="https://docs.atlassian.com/jira/docs-063/JIRA+Documentation"  target="_blank" >在线帮助</a>
+                                </li>
+                                                            <li>
+                                    <a  id="gh_view_help"   class=""  title="Get help online for JIRA Agile" href="http://docs.atlassian.com/agile/docs-067/JIRA+Agile+Documentation"  target="_blank" >JIRA Agile Help</a>
+                                </li>
+                                                            <li>
+                                    <a  id="keyshortscuthelp"   class=""  title="获得更多快捷键信息" href="/secure/ViewKeyboardShortcuts!default.jspa"  target="_blank" >快捷键</a>
+                                </li>
+                                                            <li>
+                                    <a  id="view_about"   class=""  title="获取 JIRA 的更多信息" href="/secure/AboutPage.jspa" >关于 JIRA</a>
+                                </li>
+                                                            <li>
+                                    <a  id="view_credits"   class=""  title="查看开发JIRA的研发团队" href="/secure/JiraCreditsPage!default.jspa"  target="_blank" >JIRA 研发团队</a>
+                                </li>
+                                                            <li>
+                                    <a  id="whats-new-menu-link"   class=""   href="https://docs.atlassian.com/jira/docs-063/whatsnew/full?od=false&a=true&pa=true" >What’s New</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+                    </div>
+    </li>
+
+
+<li id="system-admin-menu">
+    <a href="/secure/project/ViewProjects.jspa" id="admin_menu" class="aui-nav-link aui-dropdown2-trigger" aria-haspopup="true" aria-owns="system-admin-menu-content" title="管理员页面"><span class="aui-icon aui-icon-small aui-iconfont-configure">管理员页面</span></a>
+    <div id="system-admin-menu-content" class="aui-dropdown2 aui-style-default">
+                    <div class="aui-dropdown2-section">
+                <strong>JIRA管理</strong>
+                <ul class="aui-list-truncate">
+                                            <li>
+                            <a href="/secure/project/ViewProjects.jspa" class="aui-nav-link" id="admin_project_menu" >项目</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/ViewIssueTypes.jspa" class="aui-nav-link" id="admin_issues_menu" >问题</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/user/UserBrowser.jspa" class="aui-nav-link" id="admin_users_menu" >用户管理</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/ViewApplicationProperties.jspa" class="aui-nav-link" id="admin_system_menu" >系统</a>
+                        </li>
+                                            <li>
+                            <a href="/plugins/servlet/upm/marketplace" class="aui-nav-link" id="admin_plugins_menu" >插件</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</li>
+
+
+
+
+
+
+
+
+<li id="user-options">
+            <a id="header-details-user-fullname" class="aui-dropdown2-trigger" aria-haspopup="true" aria-owns="user-options-content" data-username="sunfucong" data-displayname="孙福聪" href="/secure/ViewProfile.jspa" title="孙福聪">
+            <span class="aui-avatar aui-avatar-small">
+                <span class="aui-avatar-inner">
+                    <img src="/secure/useravatar?size=small&ownerId=sunfucong&avatarId=10404" alt="孙福聪"/>
+                </span>
+            </span>
+        </a>
+                <div id="user-options-content" class="aui-dropdown2 aui-style-default">
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="personal" class="aui-list-truncate">
+                                                                                                <li>
+                                        <a  id="view_profile"   class=""  title="查看和修改你的详细情况和配置" href="/secure/ViewProfile.jspa">用户信息</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a  id="upm-requests-link"   class=""   href="/plugins/servlet/upm/requests?source=header_user">Atlassian Marketplace</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                            <div class="aui-dropdown2-section">
+                                            <strong>My JIRA Home</strong>
+                                                                <ul id="set_my_jira_home" class="aui-list-truncate">
+                                                            
+                                                                        <li>
+                                        <a  id="set_my_jira_home_default"  class="aui-dropdown2-radio interactive checked    " title="Set my JIRA Home to the Dashboard." href="/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_dashboard&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Dashboard</a>
+                                    </li>
+                                                                                            
+                                                                        <li>
+                                        <a  id="greenhopper-my-jira-home-set"  class="aui-dropdown2-radio interactive    " title="Set my JIRA Home to Agile." href="/secure/UpdateMyJiraHome.jspa?target=com.pyxis.greenhopper.jira%3Agreenhopper-my-jira-home-set-51&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Agile</a>
+                                    </li>
+                                                                                            
+                                                                        <li>
+                                        <a  id="set_my_jira_home_issuenav"  class="aui-dropdown2-radio interactive    " title="Set my JIRA Home to the Issue Navigator." href="/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_issue&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Issue Navigator</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="system" class="aui-list-truncate">
+                                                                                                <li>
+                                        <a  id="log_out"   class=""  title="注销身份并且取消任何自动登录。" href="/logout?atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">注销</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                    </div>
+    </li>
+</ul></div></div><!-- .aui-header-inner--></nav><!-- .aui-header -->
+    </header>
+    
+
+
+<div id="announcement-banner" class="alertHeader">
+    <a href="https://findsoft.com.cn/sdpub" target="_blank">
+<button>研发版本计划工具</button>
+</a>
+</div>
+
+
+    <section id="content" role="main">
+        <div class="aui-page-panel"><div class="aui-page-panel-inner">
+                <section class="aui-page-panel-content">
+                        
+    <div class="form-body">
+        <header>
+            <h1>项目不存在</h1>
+        </header>
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="aui-message error"><span class="aui-icon icon-error">错误</span>
+                <p>
+                    你想查看的项目不存在。 请 <a href="/secure/BrowseProjects.jspa#all">浏览</a>项目。
+                </p>
+                <p>
+                    如果你认为这个提示是错误的, 请联系 JIRA 管理员.
+                </p>
+            </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+                    </section><!-- .aui-page-panel-content -->
+            </div><!-- .aui-page-panel-inner --></div><!-- .aui-page-panel -->
+    </section>
+    <footer id="footer" role="contentinfo">
+        
+        
+
+<section class="footer-body">
+
+
+
+<ul class="atlassian-footer">
+    <li>
+        Atlassian JIRA <a class="seo-link" href="https://www.atlassian.com/software/jira">Project Management Software</a>
+
+                                    
+                        
+        <span id="footer-build-information">(v6.3.6#6336-<span title='cf1622c62a612607f341bda9491a04918e09ebfd' data-commit-id='cf1622c62a612607f341bda9491a04918e09ebfd}'>sha1:cf1622c</span>)</span>
+    </li>
+    <li>
+        <a id="about-link" href="/secure/AboutPage.jspa">About JIRA</a>
+    </li>
+    <li>
+                        <a id="footer-report-problem-link" href="/plugins/servlet/stp/view/">Report a problem</a>
+    </li>
+</ul>
+
+<form id="jira_request_timing_info" class="dont-default-focus" >
+	<fieldset class="parameters hidden">
+		<input type="hidden" title="jira.request.start.millis" value="1631522383225" />
+		<input type="hidden" title="jira.request.server.time" value="125" />
+		<input type="hidden" title="jira.request.id" value="999x134066x1" />
+		<input type="hidden" title="jira.session.expiry.time" value="1631540380799" />
+		<input type="hidden" title="jira.session.expiry.in.mins" value="299" />
+		<input id="jiraConcurrentRequests" type="hidden" name="jira.request.concurrent.requests" value="2" />
+	</fieldset>
+</form>
+<!--
+	                 REQUEST ID : 999x134066x1
+	          REQUEST TIMESTAMP : [13/九月/2021:16:39:43 +0800]
+	               REQUEST TIME : 0.1250
+	                 ASESSIONID : dtomqv
+	        CONCURRENT REQUESTS : 2
+
+	                      db.reads : name=db.reads; inv=9; ms=10; cpu=0; rss=0;
+	                      db.conns : name=db.conns; inv=9; ms=10; cpu=0; rss=0;
+-->
+    <div id="footer-logo"><a href="http://www.atlassian.com/">Atlassian</a></div>
+</section>
+
+
+
+
+
+
+
+
+
+<fieldset class="hidden parameters">
+    <input type="hidden" title="loggedInUser" value="">
+    <input type="hidden" title="ajaxTimeout" value="由于超时，JIRA服务器无法返回操作的结果。">
+    <input type="hidden" title="JiraVersion" value="6.3.6" />
+    <input type="hidden" title="ajaxUnauthorised" value="You are not authorised to perform this operation. Please log in.">
+    <input type="hidden" title="baseURL" value="http://findsoft.com.cn:8888">
+    <input type="hidden" title="ajaxCommsError" value="JIRA服务器无法连接。这可能是一个临时故障或服务器可能已关闭。">
+    <input type="hidden" title="ajaxServerError" value="已经链接到JIRA服务器，但返回错误信息。">
+    <input type="hidden" title="ajaxErrorCloseDialog" value="关闭这个对话框并重新刷新浏览器">
+    <input type="hidden" title="ajaxErrorDialogHeading" value="通讯中断">
+
+    <input type="hidden" title="dirtyMessage" value="您已经在此页面上输入了新数据。 如果您离开当前页面,所做的修改将丢失。">
+    <input type="hidden" title="dirtyDialogMessage" value="你已经在这个对话款各种输入了新的数据。 如果你离开这个对话框而不保存你的数据, 所有更新将会丢失。点击取消返回到对话框。">
+    <input type="hidden" title="keyType" value="键入">
+    <input type="hidden" title="keyThen" value="再键入">
+    <input type="hidden" title="dblClickToExpand" value="双击展开">
+    <input type="hidden" title="actions" value="行为">
+    <input type="hidden" title="removeItem" value="删除">
+    <input type="hidden" title="workflow" value="更多工作流动作">
+    <input type="hidden" title="labelNew" value="新标签">
+    <input type="hidden" title="issueActionsHint" value="输入内容查看可用过的操作">
+    <input type="hidden" title="closelink" value="关闭">
+    <input type="hidden" title="dotOperations" value="操作">
+    <input type="hidden" title="dotLoading" value="正在加载...">
+    <input type="hidden" title="frotherSuggestions" value="建议">
+    <input type="hidden" title="frotherNomatches" value="没有匹配的">
+    <input type="hidden" title="multiselectVersionsError" value="{0} 不是一个有效的版本。">
+    <input type="hidden" title="multiselectComponentsError" value="{0} 不是一个有效的模块。">
+    <input type="hidden" title="multiselectGenericError" value="数值 {0}无效。">
+</fieldset>
+
+    </footer>
+</div>
+</body>
+</html>
+
+分配失败--检查任务状态-type
+分配尚庆龙的任务一 ropo-199失败。
+http://findsoft.com.cn:8888/browse/ ropo-198 
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    
+
+
+
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<title>项目不存在 - FindSoft JIRA</title>
+<meta name="application-name" content="JIRA" data-name="jira" data-version="6.3.6"><meta name="ajs-dev-mode" content="false">
+<meta name="ajs-context-path" content="">
+<meta name="ajs-version-number" content="6.3.6">
+<meta name="ajs-build-number" content="6336">
+<meta name="ajs-is-beta" content="false">
+<meta name="ajs-is-rc" content="false">
+<meta name="ajs-is-snapshot" content="false">
+<meta name="ajs-is-milestone" content="false">
+<meta name="ajs-remote-user" content="sunfucong">
+<meta name="ajs-remote-user-fullname" content="孙福聪">
+<meta name="ajs-user-locale" content="zh_CN">
+<meta name="ajs-user-locale-group-separator" content=",">
+<meta name="ajs-app-title" content="FindSoft JIRA">
+<meta name="ajs-keyboard-shortcuts-enabled" content="true">
+<meta name="ajs-keyboard-accesskey-modifier" content="Alt">
+<meta name="ajs-enabled-dark-features" content="[&quot;jira.plugin.devstatus.phasetwo.enabled&quot;,&quot;com.atlassian.jira.config.PDL&quot;,&quot;jira.frother.reporter.field&quot;,&quot;jira.plugin.devstatus.phasetwo&quot;,&quot;com.atlassian.jira.darkfeature.CommonHeader&quot;,&quot;app-switcher.new&quot;,&quot;frother.assignee.field&quot;,&quot;jira.issue.status.lozenge&quot;]">
+<meta name="ajs-date-relativize" content="true">
+<meta name="ajs-date-time" content="HH:mm">
+<meta name="ajs-date-day" content="EEEE HH:mm">
+<meta name="ajs-date-dmy" content="yyyy-MM-dd">
+<meta name="ajs-date-complete" content="yyyy-MM-dd HH:mm">
+<meta name="ajs-in-admin-mode" content="false">
+<meta name="ajs-is-sysadmin" content="true">
+<meta name="ajs-is-admin" content="true">
+<meta name="ajs-outgoing-mail-enabled" content="true">
+<meta name="ajs-whats-new-iframe-src" content="https://docs.atlassian.com/jira/docs-063/whatsnew/iframe?od=false&amp;a=true&amp;pa=true"> <meta name="ajs-whatsnew-full-link" content="https://docs.atlassian.com/jira/docs-063/whatsnew/full?od=false&amp;a=true&amp;pa=true"><meta name="ajs-admin-quicksearch-show" content="true">
+
+
+    
+<meta id="atlassian-token" name="atlassian-token" content="BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">
+
+
+
+<link rel="shortcut icon" href="/s/zh_CN-b1h4h6/6336/35/_/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.jsp" title="项目不存在 - FindSoft JIRA"/>
+
+    
+
+
+<!--[if IE]><![endif]-->
+<script type="text/javascript">var contextPath = '';</script>
+<script>
+window.WRM=window.WRM||{};window.WRM._unparsedData=window.WRM._unparsedData||{};
+WRM._unparsedData["com.atlassian.plugins.atlassian-plugins-webresource-plugin:context-path.context-path"]="\"\"";
+WRM._unparsedData["com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources.resource-uris"]="{\"deployJava.html\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/deployJava.html\",\"clipboard.jar\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/clipboard.jar\",\"clipboard-legacy.jar\":\"/s/zh_CN-b1h4h6/6336/35/1.5.11/_/download/resources/com.atlassian.plugins.jira-html5-attach-images:jira-html5-attach-images-resources/clipboard-legacy.jar\"}";
+</script>
+<link type="text/css" rel="stylesheet" href="/s/1c383cd30b7c298ab50293adfecb7b18-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/css/batch.css" media="all">
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/css/batch.css?conditionalComment=lte+IE+9" media="all">
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/9c327efc2ef0d1cf5847d4446cf7563c/_/download/contextbatch/css/atl.general/batch.css?isAdmin=true&amp;jag=true&amp;agile_global_admin_condition=true&amp;jaguser=true" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/8d26f49c7d4aa3dbb86c5bfb0f595b57/_/download/contextbatch/css/jira.general/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/1c383cd30b7c298ab50293adfecb7b18-CDN/zh_CN-b1h4h6/6336/35/6e64de2bd227bae13f9e14dd941e0d5a/_/download/contextbatch/css/jira.global/batch.css" media="all">
+<link type="text/css" rel="stylesheet" href="/s/d41d8cd98f00b204e9800998ecf8427e-T/zh_CN-b1h4h6/6336/35/1.18.5/_/download/batch/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources.css" media="all">
+<script type="text/javascript" src="/s/40aada3023348fa3fa884a83faf96017-CDN/zh_CN-b1h4h6/6336/35/108/_/download/superbatch/js/batch.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/4eb4fa80e1ae4644f6375af34028bf75-CDN/zh_CN-b1h4h6/6336/35/9c327efc2ef0d1cf5847d4446cf7563c/_/download/contextbatch/js/atl.general/batch.js?locale=zh-CN&amp;isAdmin=true&amp;jag=true&amp;agile_global_admin_condition=true&amp;jaguser=true" ></script>
+<script type="text/javascript" src="/s/d41d8cd98f00b204e9800998ecf8427e-CDN/zh_CN-b1h4h6/6336/35/8d26f49c7d4aa3dbb86c5bfb0f595b57/_/download/contextbatch/js/jira.general/batch.js" ></script>
+<script type="text/javascript" src="/s/7a7d24b31ec5b175413da5e0c1e9c9e2-CDN/zh_CN-b1h4h6/6336/35/6e64de2bd227bae13f9e14dd941e0d5a/_/download/contextbatch/js/jira.global/batch.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-CDN/zh_CN-b1h4h6/6336/35/2.0.2/_/download/batch/com.atlassian.jira.jira-tzdetect-plugin:tzdetect-lib/com.atlassian.jira.jira-tzdetect-plugin:tzdetect-lib.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-T/zh_CN-b1h4h6/6336/35/1.18.5/_/download/batch/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources/com.atlassian.jira.plugins.jira-admin-helper-plugin:whereismycf-resources.js?locale=zh-CN" ></script>
+<script type="text/javascript" src="/s/49c439d44c710076727310c2d7714282-T/zh_CN-b1h4h6/6336/35/1.5/_/download/batch/com.atlassian.administration.atlassian-admin-quicksearch-jira:admin-quicksearch-webresources/com.atlassian.administration.atlassian-admin-quicksearch-jira:admin-quicksearch-webresources.js?locale=zh-CN" ></script>
+
+<script type="text/javascript" src="/rest/api/1.0/shortcuts/6336/da13a3785387ae4d805e41e0e9875be5/shortcuts.js"></script>
+
+
+    
+	
+    <meta name="decorator" content="message" />
+
+</head>
+<body id="jira" class="aui-layout aui-theme-default page-type-message " data-version="6.3.6">
+<div id="page">
+    <header id="header" role="banner">
+        
+    
+        
+            
+        
+    
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+        
+
+
+    <dl id="bonfire-build-info" style="display:none;">
+        <dt data-bonfire-var="bonfire-buildVersion" data-bonfire-value="2.9.13.0"></dt>
+        <dt data-bonfire-var="bonfire-buildDate" data-bonfire-value="2016-03-14T00:00:00.000+08:00"></dt>
+        <dt data-bonfire-var="bonfire-buildNumber" data-bonfire-value=""></dt>
+        <dt data-bonfire-var="bonfire-licenseStatus" data-bonfire-value="unactivated"></dt>
+    </dl>
+    
+        
+    
+
+
+<fieldset class="parameters hidden dont-default-focus">
+    <input type="hidden" title="tzdetect.pref.tzid" value="Asia/Shanghai" />
+    <input type="hidden" title="tzdetect.pref.tzname" value="(GMT+08:00) 上海" />
+    <input type="hidden" title="tzdetect.pref.janOffset" value="28800000" />
+    <input type="hidden" title="tzdetect.pref.julyOffset" value="28800000" />
+    <input type="hidden" title="tzdetect.pref.nothanks" value="" />
+</fieldset>
+<nav class="aui-header aui-dropdown2-trigger-group" role="navigation"><div class="aui-header-inner"><div class="aui-header-before"><a class="aui-dropdown2-trigger app-switcher-trigger" aria-owns="app-switcher" aria-haspopup="true" tabindex="0"><span class="aui-icon aui-icon-small aui-iconfont-appswitcher">Linked Applications</span></a><div id="app-switcher" class="aui-dropdown2 aui-style-default"><div class="app-switcher-loading">Loading&hellip;</div></div><script>
+            (function (NL) {
+                var initialise = function () {
+                    // For some milestones of AUI, the atlassian soy namespace was renamed to aui. Handle that here by ensuring that window.atlassian is defined.
+                    window.atlassian = window.atlassian || window.aui;
+                    new NL.AppSwitcher({
+                        dropdownContents: '#app-switcher'
+                    });
+                };
+                if (NL.AppSwitcher) {
+                    initialise();
+                } else {
+                    NL.onInit = initialise;
+                }
+            }(window.NL = (window.NL || {})));
+            window.NL.isUserAdmin = true</script></div><div class="aui-header-primary"><h1 id="logo" class="aui-header-logo aui-header-logo-custom"><a href="http://findsoft.com.cn:8888/secure/MyJiraHome.jspa"><img src="/s/zh_CN-b1h4h6/6336/35/_/images/icon-jira-logo.png" alt="FindSoft JIRA" /></a></h1><ul class='aui-nav'>
+
+
+
+
+<li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/secure/Dashboard.jspa" id="home_link"  accessKey="d"  title="查看和管理您的面板"  aria-haspopup="true" aria-owns="home_link-content">面板</a><div id="home_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="home_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/browse/ROPO" id="browse_link"  accessKey="p"  title="查看最近项目和浏览项目列表"  aria-haspopup="true" aria-owns="browse_link-content">项目</a><div id="browse_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="browse_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/issues/" id="find_link"  accessKey="i"  title="搜索问题和查看最近问题"  aria-haspopup="true" aria-owns="find_link-content">问题</a><div id="find_link-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="find_link"></div></li><li><a class="aui-nav-link aui-dropdown2-ajax jira-ajax-menu aui-dropdown2-trigger "href="/secure/GreenHopper.jspa" id="greenhopper_menu"  title="Manage your project with JIRA Agile"  aria-haspopup="true" aria-owns="greenhopper_menu-content">Agile</a><div id="greenhopper_menu-content" class="aui-dropdown2 aui-style-default" data-aui-dropdown2-ajax-key="greenhopper_menu"></div></li>
+<li id="create-menu"><a  id="create_link"  class="aui-button aui-button-primary aui-style create-issue "  title="创建一个新的问题/缺陷/需求等等" href="/secure/CreateIssue!default.jspa" accesskey="c">创建</a></li></ul></div><div class="aui-header-secondary"><ul class='aui-nav'><li>
+    <form action="/secure/QuickSearch.jspa" method="post" id="quicksearch" class="aui-quicksearch dont-default-focus ajs-dirty-warning-exempt">
+        <input id="quickSearchInput" class="search" type="text" title="搜索" placeholder="搜索" name="searchString" accessKey="q" />
+        <input type="submit" class="hidden" value="Search">
+    </form>
+</li>
+
+
+
+    <li id="system-help-menu">
+        <a class="aui-nav-link aui-dropdown2-trigger" id="help_menu" aria-haspopup="true" aria-owns="system-help-menu-content" href="https://docs.atlassian.com/jira/docs-063/JIRA+Documentation"  target="$textUtils.htmlEncode($rootHelpMenuItem.params.target)"  title="Help"><span class="aui-icon aui-icon-small aui-iconfont-help">Help</span></a>
+        <div id="system-help-menu-content" class="aui-dropdown2 aui-style-default">
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="jira-help" class="aui-list-truncate">
+                                                            <li>
+                                    <a  id="view_help"   class=""  title="转到JIRA在线帮助网站" href="https://docs.atlassian.com/jira/docs-063/JIRA+Documentation"  target="_blank" >在线帮助</a>
+                                </li>
+                                                            <li>
+                                    <a  id="gh_view_help"   class=""  title="Get help online for JIRA Agile" href="http://docs.atlassian.com/agile/docs-067/JIRA+Agile+Documentation"  target="_blank" >JIRA Agile Help</a>
+                                </li>
+                                                            <li>
+                                    <a  id="keyshortscuthelp"   class=""  title="获得更多快捷键信息" href="/secure/ViewKeyboardShortcuts!default.jspa"  target="_blank" >快捷键</a>
+                                </li>
+                                                            <li>
+                                    <a  id="view_about"   class=""  title="获取 JIRA 的更多信息" href="/secure/AboutPage.jspa" >关于 JIRA</a>
+                                </li>
+                                                            <li>
+                                    <a  id="view_credits"   class=""  title="查看开发JIRA的研发团队" href="/secure/JiraCreditsPage!default.jspa"  target="_blank" >JIRA 研发团队</a>
+                                </li>
+                                                            <li>
+                                    <a  id="whats-new-menu-link"   class=""   href="https://docs.atlassian.com/jira/docs-063/whatsnew/full?od=false&a=true&pa=true" >What’s New</a>
+                                </li>
+                                                    </ul>
+                                    </div>
+                    </div>
+    </li>
+
+
+<li id="system-admin-menu">
+    <a href="/secure/project/ViewProjects.jspa" id="admin_menu" class="aui-nav-link aui-dropdown2-trigger" aria-haspopup="true" aria-owns="system-admin-menu-content" title="管理员页面"><span class="aui-icon aui-icon-small aui-iconfont-configure">管理员页面</span></a>
+    <div id="system-admin-menu-content" class="aui-dropdown2 aui-style-default">
+                    <div class="aui-dropdown2-section">
+                <strong>JIRA管理</strong>
+                <ul class="aui-list-truncate">
+                                            <li>
+                            <a href="/secure/project/ViewProjects.jspa" class="aui-nav-link" id="admin_project_menu" >项目</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/ViewIssueTypes.jspa" class="aui-nav-link" id="admin_issues_menu" >问题</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/user/UserBrowser.jspa" class="aui-nav-link" id="admin_users_menu" >用户管理</a>
+                        </li>
+                                            <li>
+                            <a href="/secure/admin/ViewApplicationProperties.jspa" class="aui-nav-link" id="admin_system_menu" >系统</a>
+                        </li>
+                                            <li>
+                            <a href="/plugins/servlet/upm/marketplace" class="aui-nav-link" id="admin_plugins_menu" >插件</a>
+                        </li>
+                                    </ul>
+            </div>
+            </div>
+</li>
+
+
+
+
+
+
+
+
+<li id="user-options">
+            <a id="header-details-user-fullname" class="aui-dropdown2-trigger" aria-haspopup="true" aria-owns="user-options-content" data-username="sunfucong" data-displayname="孙福聪" href="/secure/ViewProfile.jspa" title="孙福聪">
+            <span class="aui-avatar aui-avatar-small">
+                <span class="aui-avatar-inner">
+                    <img src="/secure/useravatar?size=small&ownerId=sunfucong&avatarId=10404" alt="孙福聪"/>
+                </span>
+            </span>
+        </a>
+                <div id="user-options-content" class="aui-dropdown2 aui-style-default">
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="personal" class="aui-list-truncate">
+                                                                                                <li>
+                                        <a  id="view_profile"   class=""  title="查看和修改你的详细情况和配置" href="/secure/ViewProfile.jspa">用户信息</a>
+                                    </li>
+                                                                                                                                <li>
+                                        <a  id="upm-requests-link"   class=""   href="/plugins/servlet/upm/requests?source=header_user">Atlassian Marketplace</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                            <div class="aui-dropdown2-section">
+                                            <strong>My JIRA Home</strong>
+                                                                <ul id="set_my_jira_home" class="aui-list-truncate">
+                                                            
+                                                                        <li>
+                                        <a  id="set_my_jira_home_default"  class="aui-dropdown2-radio interactive checked    " title="Set my JIRA Home to the Dashboard." href="/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_dashboard&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Dashboard</a>
+                                    </li>
+                                                                                            
+                                                                        <li>
+                                        <a  id="greenhopper-my-jira-home-set"  class="aui-dropdown2-radio interactive    " title="Set my JIRA Home to Agile." href="/secure/UpdateMyJiraHome.jspa?target=com.pyxis.greenhopper.jira%3Agreenhopper-my-jira-home-set-51&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Agile</a>
+                                    </li>
+                                                                                            
+                                                                        <li>
+                                        <a  id="set_my_jira_home_issuenav"  class="aui-dropdown2-radio interactive    " title="Set my JIRA Home to the Issue Navigator." href="/secure/UpdateMyJiraHome.jspa?target=com.atlassian.jira.jira-my-home-plugin%3Aset_my_jira_home_issue&atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">Issue Navigator</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                            <div class="aui-dropdown2-section">
+                                                                <ul id="system" class="aui-list-truncate">
+                                                                                                <li>
+                                        <a  id="log_out"   class=""  title="注销身份并且取消任何自动登录。" href="/logout?atl_token=BG3X-EOPZ-34MV-KX5V|10a7bb6381c2ab03ae23cac4d2a3f5160a5370e0|lin">注销</a>
+                                    </li>
+                                                                                    </ul>
+                                    </div>
+                    </div>
+    </li>
+</ul></div></div><!-- .aui-header-inner--></nav><!-- .aui-header -->
+    </header>
+    
+
+
+<div id="announcement-banner" class="alertHeader">
+    <a href="https://findsoft.com.cn/sdpub" target="_blank">
+<button>研发版本计划工具</button>
+</a>
+</div>
+
+
+    <section id="content" role="main">
+        <div class="aui-page-panel"><div class="aui-page-panel-inner">
+                <section class="aui-page-panel-content">
+                        
+    <div class="form-body">
+        <header>
+            <h1>项目不存在</h1>
+        </header>
+        
+
+
+
+
+
+
+
+
+
+
+
+<div class="aui-message error"><span class="aui-icon icon-error">错误</span>
+                <p>
+                    你想查看的项目不存在。 请 <a href="/secure/BrowseProjects.jspa#all">浏览</a>项目。
+                </p>
+                <p>
+                    如果你认为这个提示是错误的, 请联系 JIRA 管理员.
+                </p>
+            </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+                    </section><!-- .aui-page-panel-content -->
+            </div><!-- .aui-page-panel-inner --></div><!-- .aui-page-panel -->
+    </section>
+    <footer id="footer" role="contentinfo">
+        
+        
+
+<section class="footer-body">
+
+
+
+<ul class="atlassian-footer">
+    <li>
+        Atlassian JIRA <a class="seo-link" href="https://www.atlassian.com/software/jira">Project Management Software</a>
+
+                                    
+                        
+        <span id="footer-build-information">(v6.3.6#6336-<span title='cf1622c62a612607f341bda9491a04918e09ebfd' data-commit-id='cf1622c62a612607f341bda9491a04918e09ebfd}'>sha1:cf1622c</span>)</span>
+    </li>
+    <li>
+        <a id="about-link" href="/secure/AboutPage.jspa">About JIRA</a>
+    </li>
+    <li>
+                        <a id="footer-report-problem-link" href="/plugins/servlet/stp/view/">Report a problem</a>
+    </li>
+</ul>
+
+<form id="jira_request_timing_info" class="dont-default-focus" >
+	<fieldset class="parameters hidden">
+		<input type="hidden" title="jira.request.start.millis" value="1631522383256" />
+		<input type="hidden" title="jira.request.server.time" value="99" />
+		<input type="hidden" title="jira.request.id" value="999x134067x2" />
+		<input type="hidden" title="jira.session.expiry.time" value="1631540380799" />
+		<input type="hidden" title="jira.session.expiry.in.mins" value="299" />
+		<input id="jiraConcurrentRequests" type="hidden" name="jira.request.concurrent.requests" value="1" />
+	</fieldset>
+</form>
+<!--
+	                 REQUEST ID : 999x134067x2
+	          REQUEST TIMESTAMP : [13/九月/2021:16:39:43 +0800]
+	               REQUEST TIME : 0.0990
+	                 ASESSIONID : dtomqv
+	        CONCURRENT REQUESTS : 1
+
+	                      db.reads : name=db.reads; inv=9; ms=10; cpu=0; rss=0;
+	                      db.conns : name=db.conns; inv=9; ms=12; cpu=0; rss=0;
+-->
+    <div id="footer-logo"><a href="http://www.atlassian.com/">Atlassian</a></div>
+</section>
+
+
+
+
+
+
+
+
+
+<fieldset class="hidden parameters">
+    <input type="hidden" title="loggedInUser" value="">
+    <input type="hidden" title="ajaxTimeout" value="由于超时，JIRA服务器无法返回操作的结果。">
+    <input type="hidden" title="JiraVersion" value="6.3.6" />
+    <input type="hidden" title="ajaxUnauthorised" value="You are not authorised to perform this operation. Please log in.">
+    <input type="hidden" title="baseURL" value="http://findsoft.com.cn:8888">
+    <input type="hidden" title="ajaxCommsError" value="JIRA服务器无法连接。这可能是一个临时故障或服务器可能已关闭。">
+    <input type="hidden" title="ajaxServerError" value="已经链接到JIRA服务器，但返回错误信息。">
+    <input type="hidden" title="ajaxErrorCloseDialog" value="关闭这个对话框并重新刷新浏览器">
+    <input type="hidden" title="ajaxErrorDialogHeading" value="通讯中断">
+
+    <input type="hidden" title="dirtyMessage" value="您已经在此页面上输入了新数据。 如果您离开当前页面,所做的修改将丢失。">
+    <input type="hidden" title="dirtyDialogMessage" value="你已经在这个对话款各种输入了新的数据。 如果你离开这个对话框而不保存你的数据, 所有更新将会丢失。点击取消返回到对话框。">
+    <input type="hidden" title="keyType" value="键入">
+    <input type="hidden" title="keyThen" value="再键入">
+    <input type="hidden" title="dblClickToExpand" value="双击展开">
+    <input type="hidden" title="actions" value="行为">
+    <input type="hidden" title="removeItem" value="删除">
+    <input type="hidden" title="workflow" value="更多工作流动作">
+    <input type="hidden" title="labelNew" value="新标签">
+    <input type="hidden" title="issueActionsHint" value="输入内容查看可用过的操作">
+    <input type="hidden" title="closelink" value="关闭">
+    <input type="hidden" title="dotOperations" value="操作">
+    <input type="hidden" title="dotLoading" value="正在加载...">
+    <input type="hidden" title="frotherSuggestions" value="建议">
+    <input type="hidden" title="frotherNomatches" value="没有匹配的">
+    <input type="hidden" title="multiselectVersionsError" value="{0} 不是一个有效的版本。">
+    <input type="hidden" title="multiselectComponentsError" value="{0} 不是一个有效的模块。">
+    <input type="hidden" title="multiselectGenericError" value="数值 {0}无效。">
+</fieldset>
+
+    </footer>
+</div>
+</body>
+</html>
+
+分配失败--检查任务状态-type
+分配尚庆龙的任务一 ropo-198失败。
