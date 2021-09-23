@@ -1,0 +1,5 @@
+.env
+package-lock.json
+user.json
+/node_modules
+/config/jack-325902-b64e06004008.json
